@@ -3,7 +3,13 @@
 
 # Insect Skeleto Muscular Anatomy ontology
 
-This ontology... YOUR DESCRIPTION HERE
+This was a test of the ODK system for ontology building.
+Initial imports in .yaml file:
+    - id: hao
+    - id: bfo
+    - id: pato
+    - id: ro
+This newly created ontology contains 17777 axioms, with a bunch of unnamed Annotation properties. Will try again with less imports.
 
 More information can be found at http://obofoundry.org/ontology/aism-testDec9-2020
 
